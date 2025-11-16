@@ -4,10 +4,12 @@
 
 💻 I am currently learning:
 - Data Science & Machine Learning  
-- Web Development  
-- Operating Systems  
-- Management Information Systems  
-- Financial & Managerial Accounting  
+- CS50
+- Database
+- SQL
+- Python
+- C#
+- C
 - Business Analytics  
 
 🚀 My goals:
