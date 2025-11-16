@@ -1,25 +1,44 @@
-### Hi! 👋
+# Hi there, I'm RahmaAshrafAli-Engineer 👋
 
-<img src="![WhatsApp Image 2025-11-10 at 19 57 21_330d9d08](https://github.com/user-attachments/assets/bd9cc0ca-f839-4ebe-b31e-0548771cf8c0)
-" alt="Banner about RahmaAshrafAli-Engineer ">
+🎓 I am a Information Systems student, passionate about technology, data, and solving real-world problems. I am consistently a top-ranked student in my class and always working to expand my skills.
 
-I'm Arturs and i'm full stack web / app developer with more then 10 years experience.
-I have been working in various fields, starting from crypto currency, finances and ending with human resources.
-I have always been hard working and goal's focused with proven results.
+💻 I am currently learning:
+- Data Science & Machine Learning  
+- Web Development  
+- Operating Systems  
+- Management Information Systems  
+- Financial & Managerial Accounting  
+- Business Analytics  
 
-#### TECH STACK
+🚀 My goals:
+- Become a Data Scientist and Machine Learning Engineer  
+- Build real projects and publish them on GitHub  
+- Achieve financial freedom and develop my career  
+- Learn German and one day work and live in Germany 🇩🇪  
 
-MYSQL / C
+🌱 I’m currently working on:
+- Improving my Python, C, C#, SQL skills  
+- Practicing Machine Learning through hands-on projects  
+- Building a strong GitHub portfolio  
+- Learning German (B1)
 
-##### MOTTO
+💼 Interests:
+- AI & Machine Learning  
+- Data Analysis  
+- Business Technology  
+- Human Rights & Global Economics  
 
-> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+📱 I create motivational and meaningful content on TikTok using my Samsung A33.
 
-####
+📫 How to reach me:
+- **LinkedIn:** https://www.linkedin.com/in/rahma-faragallah-22b132321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app **  
 
-<a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/artuurssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+---
 
+### ✨ Fun Facts About Me:
+- My favorite drink is **Cola** 🥤  
+- My favorite food is **Pizza** 🍕  
+- My favorite restaurant is **KFC** 🍗  
+- My dream country is **Germany** 🇩🇪  
+
+Thanks for visiting my profile! Feel free to check my projects or connect with me. 😊
