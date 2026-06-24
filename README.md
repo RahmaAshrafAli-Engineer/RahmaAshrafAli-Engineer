@@ -22,6 +22,7 @@
 * 🧠 Currently completing a professional diploma in **Artificial Intelligence & Data Science**
 * 📈 Continuously improving my analytical and problem-solving skills
 * 🇩🇪 German Speaker (B1)
+  
 *🤝 Member of the Public Relations Committee at the Ministry of Youth and Sports, where I contribute to communication, teamwork, and community engagement
 *🎥 Passionate about documenting my learning journey and experiences through short videos and reels, especially in German
 * 🌍 Always excited to learn new technologies and build real-world projects
