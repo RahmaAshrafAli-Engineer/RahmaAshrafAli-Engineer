@@ -140,7 +140,7 @@
 
 * 💼 LinkedIn: www.linkedin.com/in/rahma-faragallah-22b132321
 * 📧 Email: rahmaashraf.12024@gmail.com
-* 💻 GitHub: https:RahmaAshrafAli-Engineer
+* 💻 GitHub: https: RahmaAshrafAli-Engineer
 *ه
 
 ---
